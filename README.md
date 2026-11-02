@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github.com/leosareyka/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/leosareyka/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
